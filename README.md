@@ -1,4 +1,4 @@
-### PIMA  diabetes dataset
+## PIMA  diabetes dataset
 
 # Localized Nigerian EMR Vitals & Chronic Disease Risk Dataset
 
